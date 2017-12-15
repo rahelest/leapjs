@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.4.1
+ - Browser connection now adds disconnect listener only once
+
+
 ## 0.6.4
  - Expose EventEmitter and _ on Leap
  - Fixes #190 Cannot pass in Leap.loop options without callback
