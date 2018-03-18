@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.6.4.1
+## 0.6.5
  - Browser connection now adds disconnect listener only once
 
 
@@ -14,7 +14,7 @@
 
 ## 0.6.3
  - Add Optimize HMD flag for Controller
- 
+
 
 ## 0.6.2
  - Add support for Secure Websocket connection over https:// pages for Leap Software >= 2.1.0
