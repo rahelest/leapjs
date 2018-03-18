@@ -1,9 +1,10 @@
 {
   "name": "leapjs",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "description": "JavaScript client for the Leap Motion Controller",
   "main": "lib",
   "scripts": {
+    "build": "grunt",
     "test": "make test-node test-integration"
   },
   "repository": {
@@ -23,6 +24,7 @@
     "grunt": "~1.0.2",
     "grunt-banner": "~0.6.0",
     "grunt-browserify": "~5.2.0",
+    "grunt-cli": "^1.2.0",
     "grunt-contrib-clean": "~1.1.0",
     "grunt-contrib-uglify-es": "git+https://github.com/gruntjs/grunt-contrib-uglify.git#ccb95a70cad6a4e9e902d3bd5d0e38a4de09a1e1",
     "grunt-contrib-watch": "~1.0.0",
