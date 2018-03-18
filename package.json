@@ -34,7 +34,7 @@
     "mocha": "5.0.4",
     "mocha-phantomjs": "4.1.0",
     "nodemon": "1.17.2",
-    "phantomjs": "2.1.7",
+    "phantomjs": "1.9.15",
     "uglify-es": "^3.3.9",
     "utf-8-validate": "^4.0.0"
   }
